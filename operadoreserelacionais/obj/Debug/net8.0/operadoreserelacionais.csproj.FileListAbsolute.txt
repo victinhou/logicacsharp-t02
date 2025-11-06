@@ -1,0 +1,15 @@
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.AssemblyInfoInputs.cache
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.AssemblyInfo.cs
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.csproj.CoreCompileInputs.cache
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.sourcelink.json
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\bin\Debug\net8.0\operadoreserelacionais.exe
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\bin\Debug\net8.0\operadoreserelacionais.deps.json
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\bin\Debug\net8.0\operadoreserelacionais.runtimeconfig.json
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\bin\Debug\net8.0\operadoreserelacionais.dll
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\bin\Debug\net8.0\operadoreserelacionais.pdb
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.dll
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\refint\operadoreserelacionais.dll
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.pdb
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\operadoreserelacionais.genruntimeconfig.cache
+C:\Users\victor.pcribeiro\source\repos\operadoreserelacionais\obj\Debug\net8.0\ref\operadoreserelacionais.dll

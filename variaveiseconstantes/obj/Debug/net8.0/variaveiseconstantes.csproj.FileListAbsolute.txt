@@ -12,3 +12,4 @@ C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
+C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.sourcelink.json
