@@ -1,12 +1,12 @@
 ﻿//Declarando constantes
-const int valor1 = 10;
-const int valor2 = 5;
+int valor1 = 10;
+int valor2 = 5;
 
 
 
-//Soma
-int soma  = valor1 + valor2;
-Console.WriteLine($"soma: {valor1} + {valor2} = {soma}");
+//Resto
+int resto  = valor1 & valor2;
+Console.WriteLine($"resto: {valor1}  {valor2} = {resto}");
 
 //Subtração
 int subtracao = valor1 - valor2;

@@ -13,3 +13,11 @@ C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\var
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
 C:\Users\victor.pcribeiro\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.sourcelink.json
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfo.cs
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.sourcelink.json
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\refint\variaveiseconstantes.dll
+C:\Users\User\source\repos\logicacsharp-t02\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb

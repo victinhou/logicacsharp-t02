@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\X\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\X\\OneDrive\\Documents\\Programas\\C#\\Maratona02-If-Switch-For-While\\maratona02-exercicios\\maratona02-exercicios\\maratona02-exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratona02-exercicios\\maratona02-exercicios\\maratona02-exercicios.csproj",
       "projectName": "maratona02-exercicios",
-      "projectPath": "C:\\Users\\X\\OneDrive\\Documents\\Programas\\C#\\Maratona02-If-Switch-For-While\\maratona02-exercicios\\maratona02-exercicios\\maratona02-exercicios.csproj",
-      "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\X\\OneDrive\\Documents\\Programas\\C#\\Maratona02-If-Switch-For-While\\maratona02-exercicios\\maratona02-exercicios\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratona02-exercicios\\maratona02-exercicios\\maratona02-exercicios.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratona02-exercicios\\maratona02-exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

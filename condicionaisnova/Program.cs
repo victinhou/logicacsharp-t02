@@ -1,13 +1,12 @@
 ﻿//Condicional IF
 
         string nome = "Ana";
-        if (nome == "Ana") ;
+if (nome == "Ana") 
+{
+    Console.WriteLine("O nome é Ana");
+}
 
-        {
-            Console.WriteLine("Olá Ana");
-        }
-
-        string texto = "";
+       string texto = "";
 
         if (string.IsNullOrEmpty(texto))
         {
@@ -16,7 +15,7 @@
 
         //Condiconal If/Else
 
-        int idade = 17;
+        int idade = 18;
 
         if (idade >= 18)
         {
@@ -60,17 +59,18 @@
         {
             Console.WriteLine("Você está em risco de reprovação.");
         }
-        else
+        else 
         {
             Console.WriteLine("Você foi reprovado");
         }
 
-        //Condicional switch
-        double pontuacao = 8.5;
+
+    //Condicional switch
+    double pontuacao = 9.5;
 
 
         //Arredondando a nota para o inteiro mais proximo
-        int faixaNota = (int)Math.Round(pontuacao);
+        double faixaNota = (int)Math.Round(pontuacao);
 
         switch (faixaNota)
         {
