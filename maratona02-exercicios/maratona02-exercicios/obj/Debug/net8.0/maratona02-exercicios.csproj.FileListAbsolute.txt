@@ -1,0 +1,15 @@
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\bin\Debug\net8.0\maratona02-exercicios.exe
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\bin\Debug\net8.0\maratona02-exercicios.deps.json
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\bin\Debug\net8.0\maratona02-exercicios.runtimeconfig.json
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\bin\Debug\net8.0\maratona02-exercicios.dll
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\bin\Debug\net8.0\maratona02-exercicios.pdb
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.AssemblyInfoInputs.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.AssemblyInfo.cs
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.csproj.CoreCompileInputs.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.sourcelink.json
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.dll
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\refint\maratona02-exercicios.dll
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.pdb
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\maratona02-exercicios.genruntimeconfig.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\Maratona02-If-Switch-For-While\maratona02-exercicios\maratona02-exercicios\obj\Debug\net8.0\ref\maratona02-exercicios.dll
