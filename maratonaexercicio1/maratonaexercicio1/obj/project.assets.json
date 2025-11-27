@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\maratonaexercicio1\\maratonaexercicio1\\maratonaexercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratonaexercicio1\\maratonaexercicio1\\maratonaexercicio1.csproj",
       "projectName": "maratonaexercicio1",
-      "projectPath": "C:\\Users\\User\\source\\repos\\maratonaexercicio1\\maratonaexercicio1\\maratonaexercicio1.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratonaexercicio1\\maratonaexercicio1\\maratonaexercicio1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\maratonaexercicio1\\maratonaexercicio1\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\logicacsharp-t02\\maratonaexercicio1\\maratonaexercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

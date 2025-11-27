@@ -22,6 +22,7 @@ for (;;)
 }
 */
 
+<<<<<<< HEAD
 
 //Loop While (enquanto)
 int contador = 1;
@@ -85,3 +86,13 @@ do
 } while (preco != 0);
 
 Console.WriteLine($"\nTotal da compra: R$ {total:F2}");
+=======
+//While 
+int contador = 1
+ 
+while(contador <= 5)
+{
+    Console.WriteLine(contador);
+    contador++; //incrementa o contador
+}
+>>>>>>> a859dfd0ef5c368e41a6b21dea0e97c196895b4f

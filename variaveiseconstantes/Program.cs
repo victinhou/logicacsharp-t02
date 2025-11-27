@@ -1,8 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 //Variáveis
 
-char letra = 'A';
+string letra = "A" ;
 
 string nome = "João";
 
@@ -14,7 +13,7 @@ bool estaChovendo = true;
 
 // Alterando as variáveis
 
-letra = 'B';
+letra = "B" ;
 
 nome = "Maria";
 
